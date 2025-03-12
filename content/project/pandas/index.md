@@ -1,7 +1,7 @@
 ---
 title: FrenzyCompass
 date: 2025-02-12
-external_link: [https://github.com/garimamathur10/FrenzyCompass]
+external_link: https://github.com/garimamathur10/FrenzyCompass
 tags:
   - Python
   - API
