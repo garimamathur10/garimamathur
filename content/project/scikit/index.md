@@ -1,13 +1,12 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Placement-Exam-Automation-System
+date: 2021-07-31
+external_link: [https://github.com/scikit-learn/scikit-learn](https://github.com/digvijay-rathore/Placement-Exam-Automation-System)
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - HTML
+  - JavaScript
+  - NodeJS
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
+The proposed system is a web-based application that is designed to manage and handle the operations in an educational institution during Placements. It is an application that can be used by all the students and HRs of companies in an educational institute in order to facilitate the communication between them. 
 <!--more-->
