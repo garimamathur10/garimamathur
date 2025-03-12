@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: FrenzyCompass
+date: 2025-02-12
+external_link: [https://github.com/garimamathur10/FrenzyCompass]
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Python
+  - API
+  - Jupyter Notebook
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+The Frenzy Compass – An Affordable Travel Guide is a software that will help students efficiently plan their day out by suggesting them nearby activities, restaurants, and essential services based on their budget and locality when they are new to a city. Location-Based Recommendations ,​Budge & Preference Filters and Travel time Optimization.
 
 <!--more-->
