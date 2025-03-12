@@ -80,39 +80,27 @@ work:
 skills:
   - name: Technical Skills
     items:
-     - name: Dancing
-  description: ''
-  percent: 60
-  icon: music-note
-- name: Traveling
-  description: ''
-  percent: 100
-  icon: airplane
-- name: Networking
-  description: ''
-  percent: 80
-  icon: users
-- name: Python
+  - name: Python
   description: ''
   percent: 80
   icon: code-bracket
-- name: Data Science
+  - name: Data Science
   description: ''
   percent: 90
   icon: chart-bar
-- name: SQL
+  - name: SQL
   description: ''
   percent: 40
   icon: database
-- name: C++
+  - name: C++
   description: ''
   percent: 70
   icon: code
-- name: C#
+  - name: C#
   description: ''
   percent: 65
   icon: code
-- name: Tableau
+  - name: Tableau
   description: ''
   percent: 75
   icon: chart-pie
