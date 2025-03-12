@@ -31,7 +31,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/garimammathur
     
-interest:
+interests:
   - Machine Learning
   - Advanced Statistics
   - Data Management
