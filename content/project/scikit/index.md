@@ -1,7 +1,7 @@
 ---
 title: Placement-Exam-Automation-System
 date: 2021-07-31
-external_link: https://github.com/digvijay-rathore/Placement-Exam-Automation-System
+external_link: [https://github.com/digvijay-rathore/Placement-Exam-Automation-System]
 tags:
   - HTML
   - JavaScript
