@@ -44,12 +44,12 @@ interest:
   - Data Visualisation
 
 education:
-  - area:MS in Business Analytics
+  - area: MS in Business Analytics
     institution: University of California, Davis
     date_start: 2024-08-04
     date_end: 2025-08-15
    
-  - area:BE in Electronics and Computer Engineering 
+  - area: BE in Electronics and Computer Engineering 
     institution: Jai Narain Vyas University
     date_start: 2017-08-04
     date_end: 2021-08-15
