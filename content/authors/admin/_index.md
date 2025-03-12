@@ -95,15 +95,15 @@ skills:
     - name: C++
       description: ''
       percent: 70
-      icon: code
+      icon: code-bracket
     - name: C#
       description: ''
       percent: 65
-      icon: code
+      icon: code-bracket
     - name: Tableau
       description: ''
       percent: 75
-      icon: chart-pie
+      icon: chart-bar
 
   - name: Hobbies
     color: '#eeac02'
