@@ -112,15 +112,15 @@ skills:
     - name: Dancing
       description: ''
       percent: 80
-      icon: music-note
+      icon: camera
    - name: Traveling
      description: ''
      percent: 100
-     icon: airplane
+     icon: person-simple-walk
     - name: Networking
       description: ''
      percent: 80
-     icon: users
+     icon: cat
 
 
 languages:
