@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Garima Mathur
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:Garima Mathur
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Garima 
+last_name: Mathur
 
 # Status emoji
 status:
@@ -20,69 +20,44 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master of Science in Business Analytics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of California Davis
+    url: [https://gsm.ucdavis.edu/master-science-business-analytics-msba]
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:garmathur@ucdavis.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/garimammathur10
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/garimammathur
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
-education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+Highlighted Coursework/Interest:
+  - Machine Learning
+  - Advanced Statistics
+  - Data Management
+  - A/B Testing
+  - Data Visualisation
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+Education:
+  - area:MS in Business Analytics
+    institution: University of California, Davis
+    date_start: 2024-08-04
+    date_end: 2025-08-15
+   
+  - area:BE in Electronics and Computer Engineering 
+    institution: Jai Narain Vyas University
+    date_start: 2017-08-04
+    date_end: 2021-08-15
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 8.34/10.0
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
