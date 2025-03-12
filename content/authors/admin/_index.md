@@ -2,9 +2,6 @@
 # Display name
 title: Garima Mathur
 
-# Name pronunciation (optional)
-name_pronunciation:Garima Mathur
-
 # Full name (for SEO)
 first_name: Garima 
 last_name: Mathur
@@ -39,14 +36,14 @@ profiles:
     url: https://www.linkedin.com/garimammathur
 
 
-Highlighted Coursework/Interest:
+interest:
   - Machine Learning
   - Advanced Statistics
   - Data Management
   - A/B Testing
   - Data Visualisation
 
-Education:
+education:
   - area:MS in Business Analytics
     institution: University of California, Davis
     date_start: 2024-08-04
