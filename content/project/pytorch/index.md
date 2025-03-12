@@ -1,13 +1,14 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Ace the Space
+date: 2025-03-10
+external_link: https://github.com/garimamathur10/AcetheSpace
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Machine Learning
+  - Python
+  - Deep Learning
+  - Bert Embedding
+  - SVM
 ---
-
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+This project builds a resume scoring and job recommendation system that matches resumes to relevant job descriptions using BERT embeddings for semantic text representation. It preprocesses resumes and job descriptions with NLP techniques, calculates similarity scores, and recommends the top 5 job matches based on cosine similarity.
 
 <!--more-->
