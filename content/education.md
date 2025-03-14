@@ -9,12 +9,14 @@ design:
 
 # Page sections
 sections:
-  - block: resume-educations
+  - block: resume-experience
     content:
       username: admin
+    title: Education
     design:
       # Hugo date format
       date_format: 'January 2006'
+    is_education_first: false
   - block: resume-skills
     content:
       title: Skills & Hobbies
