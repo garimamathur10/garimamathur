@@ -5,7 +5,7 @@ title: 'Education'
 
 # Page sections
 sections:
-  - block: education
+  - block: resume-education
     content:
       title: education
       username: admin
