@@ -99,11 +99,11 @@ skills:
        - name: C#
          description: ''
          percent: 100
-         icon: chart-bar
+         icon: code-bracket
        - name: Tableau
          description: ''
          percent: 40
-         icon: circle-stack
+         icon: chart-bar
    - name: Hobbies
      color: '#eeac02'
      color_border: '#f0bf23'
