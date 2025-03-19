@@ -1,5 +1,6 @@
 ---
 title: 'Education'
+date: 2023-10-24
 type: landing
 
 design:
@@ -9,8 +10,14 @@ design:
 
 # Page sections
 sections:
-  - block: education
+  - block: resume-skills
     content:
-      title: Education
-   
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---
