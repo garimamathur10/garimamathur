@@ -133,7 +133,7 @@ skills:
        - name: Leadership
          description: ''
          percent: 60
-         icon: users
+         icon: user
        - name: Communication
          description: ''
          percent: 100
@@ -149,7 +149,7 @@ skills:
        - name: Critical Thinking
          description: ''
          percent: 80
-         icon: balance-scale
+         icon: comment
 languages:
   - name: English
     percent: 100
