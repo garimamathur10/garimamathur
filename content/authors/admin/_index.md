@@ -44,14 +44,14 @@ education:
     date_start: 2024-08-04
     date_end: 2025-08-15
     summary: |
-      highlighted coursework : Machine Learning, Advance Statistics, Data Management, Big Data, Application Domain
+      Highlighted Coursework : Machine Learning, Advance Statistics, Data Management, Big Data, Application Domain
    
   - area: BE in Electronics and Computer Engineering 
     institution: Jai Narain Vyas University
     date_start: 2017-08-04
     date_end: 2021-08-15
     summary: |
-      highlighted coursework : Object Oriented Programming, Operating System, Computer Architecture, Artifical Intelligence
+      Highlighted Coursework : Object Oriented Programming, Operating System, Computer Architecture, Artifical Intelligence
 work:
   - position: Senior Software Engineer
     company_name: Accolite Digital
@@ -121,7 +121,14 @@ skills:
          description: ''
          percent: 80
          icon: camera
- 
+       - name: Coding
+         description: ''
+         percent: 100
+         icon: laptop-code
+       - name: Cooking
+         description: ''
+         percent: 80
+         icon: pizza-slice
 
 languages:
   - name: English
