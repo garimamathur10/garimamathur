@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-education
     content:
-      title: education
+      title: Education
       username: admin
   - block: resume-skills
     content:
