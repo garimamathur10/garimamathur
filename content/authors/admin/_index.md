@@ -146,10 +146,10 @@ skills:
          description: ''
          percent: 100
          icon: code-bracket
-       - name: Flexibility
+       - name: Learning
          description: ''
          percent: 80
-         icon: sync-alt
+         icon: code-bracket
 languages:
   - name: English
     percent: 100
