@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-event  # Assuming you have an education block
+  - block: resume-experience  # Assuming you have an education block
     content:
       title: Education
       username: admin
