@@ -146,10 +146,10 @@ skills:
          description: ''
          percent: 100
          icon: code-bracket
-       - name: Critical Thinking
+       - name: Flexibility
          description: ''
          percent: 80
-         icon: comment
+         icon: anchor
 languages:
   - name: English
     percent: 100
