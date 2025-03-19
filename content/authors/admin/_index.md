@@ -116,7 +116,7 @@ skills:
        - name: Networking
          description: ''
          percent: 100
-         icon: cat
+         icon: handshake
        - name: Photography
          description: ''
          percent: 80
