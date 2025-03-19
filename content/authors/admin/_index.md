@@ -116,7 +116,7 @@ skills:
        - name: Networking
          description: ''
          percent: 100
-         icon: handshake
+         icon: group
        - name: Photography
          description: ''
          percent: 80
@@ -124,11 +124,11 @@ skills:
        - name: Coding
          description: ''
          percent: 100
-         icon: laptop-code
+         icon: code
        - name: Cooking
          description: ''
          percent: 80
-         icon: pizza-slice
+         icon: fastfood
 
 languages:
   - name: English
