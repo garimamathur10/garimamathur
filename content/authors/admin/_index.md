@@ -141,7 +141,7 @@ skills:
        - name: Teamplayer
          description: ''
          percent: 80
-         icon: person-simple
+         icon: people-arrows
        - name: Problem-Solving
          description: ''
          percent: 100
@@ -149,7 +149,7 @@ skills:
        - name: Critical Thinking
          description: ''
          percent: 80
-         icon: chess
+         icon: rocket
 languages:
   - name: English
     percent: 100
