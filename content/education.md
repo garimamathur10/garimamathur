@@ -19,6 +19,7 @@ sections:
       date_format: 'January 2006'
     # Education or Experience section first?
       is_education_first: true
+      is_experience: false
   - block: resume-skills
     content:
       title: Skills & Hobbies
