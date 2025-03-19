@@ -149,7 +149,7 @@ skills:
        - name: Learning
          description: ''
          percent: 80
-         icon: search
+         icon: chart-bar
 languages:
   - name: English
     percent: 100
