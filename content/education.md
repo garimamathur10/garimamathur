@@ -10,9 +10,8 @@ design:
 
 # Page sections
 sections:
-  - block: resume-education
+   - block: resume-experience
     content:
-      title: Education
       username: admin
     design:
       # Hugo date format
