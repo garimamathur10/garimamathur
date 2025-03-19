@@ -10,6 +10,10 @@ design:
 
 # Page sections
 sections:
+    - block: resume-education
+    content:
+      title: education
+      username: admin
   - block: resume-skills
     content:
       title: Skills & Hobbies
