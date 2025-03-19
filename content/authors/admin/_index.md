@@ -141,7 +141,7 @@ skills:
        - name: Teamplayer
          description: ''
          percent: 80
-         icon: handshake
+         icon: users
        - name: Problem-Solving
          description: ''
          percent: 100
@@ -149,7 +149,7 @@ skills:
        - name: Critical Thinking
          description: ''
          percent: 80
-         icon: rocket
+         icon: balance-scale
 languages:
   - name: English
     percent: 100
