@@ -149,7 +149,7 @@ skills:
        - name: Learning
          description: ''
          percent: 80
-         icon: books
+         icon: terminal
 languages:
   - name: English
     percent: 100
