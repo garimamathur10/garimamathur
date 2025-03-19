@@ -149,7 +149,7 @@ skills:
        - name: Flexibility
          description: ''
          percent: 80
-         icon: anchor
+         icon: idea
 languages:
   - name: English
     percent: 100
