@@ -97,10 +97,6 @@ skills:
          description: ''
          percent: 80
          icon: code-bracket
-       - name: C#
-         description: ''
-         percent: 100
-         icon: code-bracket
        - name: Tableau
          description: ''
          percent: 40
@@ -137,7 +133,7 @@ skills:
        - name: Leadership
          description: ''
          percent: 60
-         icon: person
+         icon: users
        - name: Communication
          description: ''
          percent: 100
@@ -145,7 +141,7 @@ skills:
        - name: Teamplayer
          description: ''
          percent: 80
-         icon: users
+         icon: hands
        - name: Problem-Solving
          description: ''
          percent: 100
@@ -153,7 +149,7 @@ skills:
        - name: Critical Thinking
          description: ''
          percent: 80
-         icon: brain
+         icon: lightbulb
 languages:
   - name: English
     percent: 100
