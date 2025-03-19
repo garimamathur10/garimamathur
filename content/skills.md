@@ -1,5 +1,5 @@
 ---
-title: 'Education'
+title: 'Skills'
 date: 2023-10-24
 type: landing
 
@@ -10,16 +10,6 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience  # Assuming you have an education block
-    content:
-      title: Education
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-    # Education or Experience section first?
-      is_education_first: true
-      is_experience: false
   - block: resume-skills
     content:
       title: Skills & Hobbies
