@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-    - block: resume-education
+  - block: resume-education
     content:
       title: education
       username: admin
