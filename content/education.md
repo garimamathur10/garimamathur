@@ -14,6 +14,9 @@ sections:
     content:
       title: Education
       username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
   - block: resume-skills
     content:
       title: Skills & Hobbies
