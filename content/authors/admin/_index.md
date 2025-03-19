@@ -141,7 +141,7 @@ skills:
        - name: Teamplayer
          description: ''
          percent: 80
-         icon: people-arrows
+         icon: handshake
        - name: Problem-Solving
          description: ''
          percent: 100
