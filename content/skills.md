@@ -16,7 +16,15 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  
+      image:
+          # Add your image background to `assets/media/`.
+          filename: Blue (1).jpg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+    
   - block: resume-languages
     content:
       title: Languages
