@@ -193,7 +193,6 @@ skills:
          percent: 100
          icon: microphone
 
-
 ---
 
 ## About Me
