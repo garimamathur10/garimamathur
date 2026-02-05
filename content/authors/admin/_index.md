@@ -193,6 +193,7 @@ skills:
          percent: 100
          icon: microphone
 
+---
 ## About Me
 
 Software Engineer with 3+ years of experience building, optimizing, and operating large-scale, low-latency distributed systems in client-facing environments. Proficient in Python, C++, Java, and Linux, with a focus on concurrency, performance tuning, system reliability, and production ownership. Strong background in delivering high-quality software end-to-end, collaborating cross-functionally, and supporting systems serving millions of users.
