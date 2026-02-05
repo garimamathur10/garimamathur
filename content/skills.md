@@ -25,9 +25,5 @@ sections:
           position: center
           parallax: false
     
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
 ---
     
