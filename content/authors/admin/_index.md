@@ -53,6 +53,31 @@ education:
     summary: |
       Highlighted Coursework : Object Oriented Programming, Operating System, Computer Architecture, Artifical Intelligence
 work:
+  - position: Data Augmentation Intern
+    company_name: Bevalty
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-06-23
+    date_end: 2025-08-01
+    summary: |2-
+      Responsibilities include:
+      - •	Built and optimized distributed Python prototype for customer profiling integrated with Supabase and REST APIs, increasing ingestion throughput, enabling timely business insights for marketing and analytics teams.
+      - Owned automation of customer profiling using KMeans, improving dataset quality by 60% for data augmentation.
+      - Implemented multi-schema validation across 10+ TypeScript schemas to improve GA4 events (engagement, churn, LTV).
+      - Collaborated with analytics and product teams to productionize ML-driven pipelines, improving model deployment.
+
+  - position: Project Manager 
+    company_name: ExPrep (Practicum Experience)
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-08-09
+    date_end: 2025-06-07
+    summary: |2-
+      Responsibilities include:
+      - Led a cross-functional team of 4 to build SQL-driven pipelines supporting 80,000+ active students across 80+ universities.
+      - Performed advanced SQL analysis on 10,000+ records to identify data quality gaps and enhance backend processes.
+      - Collaborated with stakeholders to define 5 KPIs for system performance, user engagement, and data pipeline efficiency.
+        
   - position: Senior Software Engineer
     company_name: Accolite Digital
     company_url: ''
