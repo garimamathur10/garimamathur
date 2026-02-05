@@ -179,7 +179,16 @@ skills:
          description: ''
          percent: 80
          icon: chart-bar
-
+language:
+     items:
+       - name: Hindi
+         description: ''
+         percent: 100
+         icon: microphone
+       - name: English
+         description: ''
+         percent: 100
+         icon: microphone
 ---
 ## About Me
 
