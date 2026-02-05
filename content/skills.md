@@ -17,7 +17,7 @@ sections:
     design:
       show_skill_percentage: false
 
- background:
+background:
   - color: black
     image:
       # Add your image background to `assets/media/`.
@@ -28,4 +28,3 @@ sections:
       position: center
       parallax: false
 ---
-    
