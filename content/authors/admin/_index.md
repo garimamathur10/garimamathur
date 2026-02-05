@@ -188,7 +188,7 @@ skills:
          description: ''
          percent: 100
          icon: microphone
-      - name: Hindi
+       - name: Hindi
          description: ''
          percent: 100
          icon: microphone
