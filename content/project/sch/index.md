@@ -3,7 +3,7 @@ title: SchedWiz
 date: 2025-06-30
 external_link: [https://github.com/garimamathur10/SchedWiz]
 tags:
-  - Machine Learning
+  - Big Data
   - Python
   - Data Visualization
 ---
