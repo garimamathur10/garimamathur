@@ -117,7 +117,7 @@ skills:
        - name: Java
          description: ''
          percent: 100
-         icon: chart-bar
+         icon: code-bracket
        - name: SQL
          description: ''
          percent: 40
@@ -179,11 +179,20 @@ skills:
          description: ''
          percent: 80
          icon: chart-bar
-languages:
-  - name: English
-    percent: 100
-  - name: Hindi
-    percent: 100
+
+    - name: Languages
+     color: '#eeac02'
+     color_border: '#f0bf23'
+     items:
+       - name: English
+         description: ''
+         percent: 100
+         icon: microphone
+      - name: Hindi
+         description: ''
+         percent: 100
+         icon: microphone
+
 
 ---
 
