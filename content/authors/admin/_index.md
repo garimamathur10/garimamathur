@@ -43,14 +43,14 @@ education:
     institution: University of California, Davis
     date_start: 2024-08-04
     date_end: 2025-08-15
-    summary: |
+    summary: |2-
       Highlighted Coursework : Machine Learning, Advance Statistics, Data Management, Big Data, Application Domain
    
   - area: BE in Electronics and Computer Engineering 
     institution: Jai Narain Vyas University
     date_start: 2017-08-04
     date_end: 2021-08-15
-    summary: |
+    summary: |2-
       Highlighted Coursework : Object Oriented Programming, Operating System, Computer Architecture, Artifical Intelligence
 work:
   - position: Data Augmentation Intern
