@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: I love creating and bringing ideas to life. Here are some projects I've worked on over the years.
+      text: I love creating and bringing ideas to life. Here are some projects I have worked on over the years.
       filters:
         folders:
           - project
