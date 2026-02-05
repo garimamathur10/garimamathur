@@ -29,7 +29,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/garimamathur10
   - icon: brands/linkedin
-    url: www.linkedin.com/in/garimammathur
+    url: https://www.linkedin.com/in/garimammathur
     
 interests:
   - Software Engineering
