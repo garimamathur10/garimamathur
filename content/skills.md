@@ -3,8 +3,6 @@ title: 'Skills'
 date: 2023-10-24
 type: landing
 
-design:
-  spacing: '0'   # Remove extra spacing to allow full-screen background
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -14,6 +12,7 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-
+   design:
+      view: article-grid
+      columns: 3
 ---
-
