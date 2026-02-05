@@ -21,7 +21,7 @@ sections:
       columns: 3
 
 background:
-    color: black
+  - color: black
       image:
           # Add your image background to `assets/media/`.
           filename: Blue (1).jpg
