@@ -27,9 +27,9 @@ profiles:
     url: 'mailto:garmathur@ucdavis.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/garimammathur10
+    url: https://github.com/garimamathur10
   - icon: brands/linkedin
-    url: https://www.linkedin.com/garimammathur
+    url: www.linkedin.com/in/garimammathur
     
 interests:
   - Software Engineering
