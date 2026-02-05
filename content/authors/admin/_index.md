@@ -180,19 +180,6 @@ skills:
          percent: 80
          icon: chart-bar
 
-    - name: Languages
-     color: '#eeac02'
-     color_border: '#f0bf23'
-     items:
-       - name: English
-         description: ''
-         percent: 100
-         icon: microphone
-       - name: Hindi
-         description: ''
-         percent: 100
-         icon: microphone
-
 ---
 ## About Me
 
