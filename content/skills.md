@@ -15,4 +15,6 @@ sections:
     design:
       show_skill_percentage: false
       css_class: dark
+    background:
+        color: black
 ---
