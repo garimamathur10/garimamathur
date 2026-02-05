@@ -16,16 +16,22 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-    design:
       css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: Blue (1).jpg
+          filename: "Blue (1).jpg"
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
+      text_color: white
+      padding: "5rem 2rem"  # Optional: adds spacing around the section
+      overlay:
+        enable: true          # Optional: adds a semi-transparent overlay
+        color: black
+        opacity: 0.5
+
 ---
