@@ -24,7 +24,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:garmathur@ucdavis.edu'
+    url: 'mailto:garimammathur10@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/garimamathur10
