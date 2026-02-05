@@ -19,6 +19,8 @@ sections:
     design:
       view: article-grid
       columns: 3
+    background:
+    color: black
       image:
           # Add your image background to `assets/media/`.
           filename: Blue (1).jpg
