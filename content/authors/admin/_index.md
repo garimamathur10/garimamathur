@@ -32,11 +32,11 @@ profiles:
     url: https://www.linkedin.com/garimammathur
     
 interests:
+  - Software Engineering
   - Machine Learning
-  - Advanced Statistics
   - Data Management
-  - A/B Testing
   - Data Visualisation
+  - Cloud Platforms
 
 education:
   - area: MS in Business Analytics
@@ -64,6 +64,8 @@ work:
       - Enhanced system security by addressing a critical vulnerability through improved validation of COM (Component Object Model) calls using C# and C++, while encrypting the existing KIX file and implementing tokenization to securely handle and store sensitive information, minimizing unauthorized access risks over 40 criteria.
       - Enhanced the existing User Manager GUI to support newly introduced MariaDB v10.5 privileges, improving data access management for over 2.5M users.
       - Created new database scripts for software which compiled database design to support 2022 server environment with existing functionality of validation logic.
+      - Collaborated closely with product managers and QA to deliver production-quality features through the full SDLC.
+
   - position: Software Engineer
     company_name: Accolite Digital
     company_url: ''
@@ -72,9 +74,11 @@ work:
     date_end: 2023-11-14
     summary: |
       Responsibilities include:
-      -  Upgraded Mesa 3D Graphics Library from version 7.8 to 21.2.3, compiling APIs and dynamic link libraries like OpenGL, OSMesa and Glu/Glut ensuring seamless performance of existing functionality for an interactive 3D Linux database application.
+      -  Upgraded Mesa 3D Graphics Library (v7.8 → v21.2.3) for Linux-based rendering, optimizing OpenGL/OSMesa APIs to support high-frequency visualization with reduced latency.
       - Developed a feature that enables users to customize history table names, tailoring them to their data modeling preferences in Azure SQL DB and SQL Server.
+      - Debugged large-scale data pipelines impacting 3M+ users, resolving parameter-mapping issues to improve data accuracy.
       - Integrated software support for the parameter handling issue during reverse engineering of tables with more than 30 characters, ensuring accurate data mapping for table name for over 3M users.
+      - Orchestrated unit, integration, and system-level tests in Java, triaged performance bottlenecks and production issues.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -85,7 +89,7 @@ skills:
          description: ''
          percent: 80
          icon: code-bracket
-       - name: Data Science
+       - name: Java
          description: ''
          percent: 100
          icon: chart-bar
@@ -160,4 +164,4 @@ languages:
 
 ## About Me
 
-Master of Science in Business Analytics candidate at UC Davis with a Bachelor's in Electronics and Computer Engineering and 3+ years of experience in software engineering and data analytics. Adept at transforming complex datasets into actionable insights, I combine strong technical skills with business intelligence to deliver innovative, data-driven solutions. transforming complex datasets into innovative solutions that drive impactful business outcomes.
+Software Engineer with 3+ years of experience building, optimizing, and operating large-scale, low-latency distributed systems in client-facing environments. Proficient in Python, C++, Java, and Linux, with a focus on concurrency, performance tuning, system reliability, and production ownership. Strong background in delivering high-quality software end-to-end, collaborating cross-functionally, and supporting systems serving millions of users.
