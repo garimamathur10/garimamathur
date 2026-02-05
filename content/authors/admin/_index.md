@@ -61,7 +61,7 @@ work:
     date_end: 2025-08-01
     summary: |2-
       Responsibilities include:
-      - •	Built and optimized distributed Python prototype for customer profiling integrated with Supabase and REST APIs, increasing ingestion throughput, enabling timely business insights for marketing and analytics teams.
+      - Built and optimized distributed Python prototype for customer profiling integrated with Supabase and REST APIs, increasing ingestion throughput, enabling timely business insights for marketing and analytics teams.
       - Owned automation of customer profiling using KMeans, improving dataset quality by 60% for data augmentation.
       - Implemented multi-schema validation across 10+ TypeScript schemas to improve GA4 events (engagement, churn, LTV).
       - Collaborated with analytics and product teams to productionize ML-driven pipelines, improving model deployment.
