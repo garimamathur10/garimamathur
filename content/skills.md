@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '0'   # Remove extra spacing to allow full-screen background
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -17,21 +17,21 @@ sections:
     design:
       show_skill_percentage: false
       css_class: dark
+      height: "100vh"           # Full viewport height
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
           filename: "Blue (1).jpg"
           filters:
             brightness: 1.0
-          size: cover
+          size: cover           # Ensures the image covers entire section
           position: center
           parallax: false
       text_color: white
-      padding: "5rem 2rem"  # Optional: adds spacing around the section
+      padding: "0 2rem"         # Reduce padding to fit full screen
       overlay:
-        enable: true          # Optional: adds a semi-transparent overlay
+        enable: true
         color: black
         opacity: 0.5
-
 ---
+
