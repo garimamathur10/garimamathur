@@ -12,7 +12,17 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-   design:
-      view: article-grid
-      columns: 3
+    design:
+      show_skill_percentage: false
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: Blue (1).jpg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 ---
