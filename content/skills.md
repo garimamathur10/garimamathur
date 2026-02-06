@@ -19,6 +19,8 @@ sections:
     design:
       show_skill_percentage: false   
       css_class: dark
+      columns: 3           
+      gap: "5rem" 
       background:
         color: black
         image:
