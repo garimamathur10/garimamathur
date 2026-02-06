@@ -19,7 +19,7 @@ sections:
     design:
       show_skill_percentage: false   
       css_class: dark
-      view: article-list         
+      view: article-grid         
       columns: 3                 
       gap: "3rem"               
       item_gap: "1rem" 
