@@ -121,7 +121,7 @@ Professional skills:
       - name: Linux
         icon: code-bracket
 
-Soft Skills
+Soft Skills:
   - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -141,7 +141,7 @@ Soft Skills
       - name: Learning Mindset
         icon: puzzle-piece
 
-Interests
+Interests:
   - name: Hobbies
     color: '#16a34a'
     color_border: '#22c55e'
