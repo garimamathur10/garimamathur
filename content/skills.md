@@ -19,9 +19,10 @@ sections:
     design:
       show_skill_percentage: false   
       css_class: dark
-      view: article-list    
-      column: 3           
-      gap: "5rem" 
+      view: article-list         
+      columns: 3                 
+      gap: "3rem"               
+      item_gap: "1rem" 
       background:
         color: black
         image:
