@@ -14,8 +14,10 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
+       
     design:
       show_skill_percentage: false
+      css_class: dark
       background:
         color: black
         image:
