@@ -108,7 +108,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+    - name: Technical Skills
     items:
       - name: Python
         description: Backend services, data pipelines, scripting
@@ -129,7 +129,7 @@ skills:
         description: Version control, code reviews, collaboration
         icon: code-bracket-square
 
-  - name: Professional Skills
+   - name: Professional Skills
     color: '#2563eb'
     color_border: '#3b82f6'
     items:
