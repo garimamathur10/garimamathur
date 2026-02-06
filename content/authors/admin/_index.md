@@ -55,8 +55,8 @@ education:
 work:
   - position: Data Augmentation Intern
     company_name: Bevalty
-    company_url: https://www.bevalty.com
-    company_logo: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.bevalty.com%2F&ved=0CBYQjRxqFwoTCMDbo-bjxZIDFQAAAAAdAAAAABAf&opi=89978449
+    company_url: ''
+    company_logo: ''
     date_start: 2025-06-23
     date_end: 2025-08-01
     summary: |2-
@@ -68,8 +68,8 @@ work:
 
   - position: Project Manager 
     company_name: ExPrep (Practicum Experience)
-    company_url: https://support.excelpreparation.com/knowledge/new-to-exprep-onboarding-students
-    company_logo: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmecc.college%2Fexprep%2F&ved=0CBYQjRxqFwoTCKiN36HkxZIDFQAAAAAdAAAAABAI&opi=89978449
+    company_url: ''
+    company_logo: ''
     date_start: 2024-08-09
     date_end: 2025-06-07
     summary: |2-
@@ -80,8 +80,8 @@ work:
         
   - position: Senior Software Engineer
     company_name: Accolite Digital
-    company_url: https://www.bounteous.com
-    company_logo: https://github.com/user-attachments/assets/203aa96c-4c14-4230-ae18-490945de2588
+    company_url: ''
+    company_logo: ''
     date_start: 2023-11-15
     date_end: 2024-08-01
     summary: |2-
@@ -93,8 +93,8 @@ work:
 
   - position: Software Engineer
     company_name: Accolite Digital
-    company_url: https://www.bounteous.com
-    company_logo: https://github.com/user-attachments/assets/203aa96c-4c14-4230-ae18-490945de2588
+    company_url: ''
+    company_logo: ''
     date_start: 2021-09-15
     date_end: 2023-11-14
     summary: |
@@ -108,67 +108,87 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        icon: python
-      - name: Java
-        icon: code-bracket
-      - name: C++
-        icon: cpu-chip
-      - name: SQL
-        icon: circle-stack
-      - name: Linux
-        icon: code-bracket
-
-  - name: Soft Skills
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Leadership
-        percent: 60
-        icon: user
-      - name: Communication
-        percent: 100
-        icon: microphone
-      - name: Teamplayer
-        percent: 80
-        icon: users
-      - name: Problem-Solving
-        percent: 100
-        icon: code-bracket
-      - name: Learning Mindset
-        icon: puzzle-piece
-
-  - name: Hobbies
-    color: '#16a34a'
-    color_border: '#22c55e'
-    items:
-      - name: Travelling
-        percent: 60
-        icon: person-simple-walk
-      - name: Networking
-        percent: 100
-        icon: users
-      - name: Photography
-        percent: 80
-        icon: camera
-      - name: Coding
-        percent: 100
-        icon: code-bracket
-      - name: Cooking
-        percent: 80
-        icon: fire
-
-languages:
-
-    items:
-      - name: English
-        percent: 100
-        icon: globe
-      - name: Hindi
-        percent: 100
-        icon: globe
+   - name: Technical Skills
+     items:
+       - name: Python
+         description: ''
+         percent: 80
+         icon: code-bracket
+       - name: Java
+         description: ''
+         percent: 100
+         icon: code-bracket
+       - name: SQL
+         description: ''
+         percent: 40
+         icon: circle-stack
+       - name: C++
+         description: ''
+         percent: 80
+         icon: code-bracket
+       - name: Tableau
+         description: ''
+         percent: 40
+         icon: chart-bar
+   - name: Hobbies
+     color: '#eeac02'
+     color_border: '#f0bf23'
+     items:
+       - name: Travelling
+         description: ''
+         percent: 60
+         icon: person-simple-walk
+       - name: Networking
+         description: ''
+         percent: 100
+         icon: users
+       - name: Photography
+         description: ''
+         percent: 80
+         icon: camera
+       - name: Coding
+         description: ''
+         percent: 100
+         icon: code-bracket
+       - name: Cooking
+         description: ''
+         percent: 80
+         icon: fire
+ 
+   - name: Soft Skills
+     color: '#eeac02'
+     color_border: '#f0bf23'
+     items:
+       - name: Leadership
+         description: ''
+         percent: 60
+         icon: user
+       - name: Communication
+         description: ''
+         percent: 100
+         icon: microphone
+       - name: Teamplayer
+         description: ''
+         percent: 80
+         icon: users
+       - name: Problem-Solving
+         description: ''
+         percent: 100
+         icon: code-bracket
+       - name: Learning
+         description: ''
+         percent: 80
+         icon: chart-bar
+language:
+     items:
+       - name: Hindi
+         description: ''
+         percent: 100
+         icon: microphone
+       - name: English
+         description: ''
+         percent: 100
+         icon: microphone
 ---
 ## About Me
 
