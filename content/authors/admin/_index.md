@@ -14,7 +14,6 @@ highlight_name: true
 
 # Role/position/tagline
 role: Master of Science in Business Analytics
-tageline: Turning Complex Business Problems into Scalable Software Solutions”
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -161,6 +160,15 @@ skills:
         percent: 80
         icon: fire
 
+languages:
+
+    items:
+      - name: English
+        percent: 100
+        icon: globe
+      - name: Hindi
+        percent: 100
+        icon: globe
 ---
 ## About Me
 
