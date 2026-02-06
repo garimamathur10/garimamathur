@@ -107,7 +107,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-Professional skills:
+skills:
   - name: Technical Skills
     items:
       - name: Python
@@ -121,7 +121,6 @@ Professional skills:
       - name: Linux
         icon: code-bracket
 
-Soft Skills:
   - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -141,7 +140,6 @@ Soft Skills:
       - name: Learning Mindset
         icon: puzzle-piece
 
-Interests:
   - name: Hobbies
     color: '#16a34a'
     color_border: '#22c55e'
@@ -162,7 +160,17 @@ Interests:
         percent: 80
         icon: fire
 
-
+language:
+ - name: Languages
+    color: '#f97316'
+    color_border: '#fb923c'
+    items:
+      - name: English
+        percent: 100
+        icon: globe
+      - name: Hindi
+        percent: 100
+        icon: globe
 ---
 ## About Me
 
