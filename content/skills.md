@@ -5,7 +5,7 @@ type: landing
 
 design:
   padding_top: '10rem'
-  padding_bottom:'30rem'
+  padding_bottom: '30rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
