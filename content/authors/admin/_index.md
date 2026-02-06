@@ -115,7 +115,7 @@ skills:
         icon: python
       - name: Java
         description: Expertise in building and maintaining software systems
-        icon: coffee
+        icon: code-bracket
       - name: C++
         description: Expertise in building and maintaining software systems
         icon: cpu-chip
@@ -124,10 +124,7 @@ skills:
         icon: circle-stack
       - name: Linux
         description: Expertise in building and maintaining software systems
-        icon: terminal
-      - name: Git
-        description: Expertise in building and maintaining software systems
-        icon: code-bracket-square
+        icon: code-bracket
 
   - name: Professional / Soft Skills
     color: '#eeac02'
@@ -149,22 +146,10 @@ skills:
         description: Expertise in building and maintaining software systems
         percent: 100
         icon: code-bracket
-      - name: Learning
-        description: Expertise in building and maintaining software systems
-        percent: 80
-        icon: chart-bar
       - name: Problem Solving
         description: Expertise in building and maintaining software systems
         icon: puzzle-piece
-      - name: Communication
-        description: Expertise in building and maintaining software systems
-        icon: chat-bubble-left-right
-      - name: Leadership
-        description: Expertise in building and maintaining software systems
-        icon: user-group
-      - name: Learning Mindset
-        description: Expertise in building and maintaining software systems
-        icon: academic-cap
+
 
   - name: Hobbies
     color: '#16a34a'
