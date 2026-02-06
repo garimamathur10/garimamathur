@@ -162,8 +162,6 @@ skills:
 
 language:
  - name: Languages
-    color: '#f97316'
-    color_border: '#fb923c'
     items:
       - name: English
         percent: 100
