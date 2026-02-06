@@ -22,10 +22,7 @@ sections:
       padding_top: 80
       padding_bottom: 80
       background:
-        color: "#0b0b0b"   # darker for contrast
-        overlay:
-          color: "#111111"
-          opacity: 0.6
+        color: black
         image:
           filename: Blue (1).jpg
           filters:
