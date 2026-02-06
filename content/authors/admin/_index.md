@@ -160,15 +160,6 @@ skills:
         percent: 80
         icon: fire
 
-awards:
-
-    items:
-      - name: English
-        percent: 100
-        icon: globe
-      - name: Hindi
-        percent: 100
-        icon: globe
 ---
 ## About Me
 
