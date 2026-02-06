@@ -126,7 +126,7 @@ skills:
         description: Managed Linux environments, debugging production issues and deploying services reliably
         icon: code-bracket
 
-  - name: Professional / Soft Skills
+  - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
