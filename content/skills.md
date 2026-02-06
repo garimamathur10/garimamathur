@@ -4,8 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  padding_top: '10rem'
-  padding_bottom: '30rem'
+  spacing: '10rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -18,10 +17,7 @@ sections:
     
     design:
       show_skill_percentage: false   
-      css_class: dark
-      view: article-grid         
-      columns: 3
-      spacing: '10rem'             
+      css_class: dark            
       background:
         color: black
         image:
