@@ -170,31 +170,6 @@ skills:
          description: ''
          percent: 80
          icon: fire
- 
-   - name: Soft Skills
-     color: '#eeac02'
-     color_border: '#f0bf23'
-     items:
-       - name: Leadership
-         description: ''
-         percent: 60
-         icon: user
-       - name: Communication
-         description: ''
-         percent: 100
-         icon: microphone
-       - name: Teamplayer
-         description: ''
-         percent: 80
-         icon: users
-       - name: Problem-Solving
-         description: ''
-         percent: 100
-         icon: code-bracket
-       - name: Learning
-         description: ''
-         percent: 80
-         icon: chart-bar
 
 ---
 ## About Me
