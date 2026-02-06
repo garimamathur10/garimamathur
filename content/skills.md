@@ -16,7 +16,9 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-      image:
+      background:
+        color: black
+        image:
           # Add your image background to `assets/media/`.
           filename: Blue (1).jpg
           filters:
@@ -24,5 +26,4 @@ sections:
           size: cover
           position: center
           parallax: false
-
 ---
