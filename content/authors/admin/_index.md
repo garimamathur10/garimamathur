@@ -14,6 +14,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: Master of Science in Business Analytics
+tageline: Turning Complex Business Problems into Scalable Software Solutions”
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
