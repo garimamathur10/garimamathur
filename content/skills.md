@@ -30,13 +30,4 @@ sections:
           size: cover
           position: center
           parallax: true   # adds subtle movement
-      title:
-        color: "#facc15"  # amber/yellow accent
-        uppercase: true
-        font_weight: bold
-        font_size: 48px
-      subtitle:
-        color: "#ffffff"
-        font_size: 20px
-        margin_top: 10
 ---
