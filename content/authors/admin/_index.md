@@ -111,19 +111,19 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: Expertise in building and maintaining software systems
+        description: Developed scalable backend systems and automated data pipelines for high-traffic applications
         icon: python
       - name: Java
-        description: Expertise in building and maintaining software systems
+        description: Built distributed, low-latency services with multithreading and concurrency optimizations
         icon: code-bracket
       - name: C++
-        description: Expertise in building and maintaining software systems
+        description: Implemented performance-critical modules and optimized core system components
         icon: cpu-chip
       - name: SQL
-        description: Expertise in building and maintaining software systems
+        description: Wrote complex queries, optimized analytics pipelines, and managed relational databases
         icon: circle-stack
       - name: Linux
-        description: Expertise in building and maintaining software systems
+        description: Managed Linux environments, debugging production issues and deploying services reliably
         icon: code-bracket
 
   - name: Professional / Soft Skills
@@ -131,48 +131,47 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Leadership
-        description: Expertise in building and maintaining software systems
+        description: Led teams and took ownership of end-to-end service delivery
         percent: 60
         icon: user
       - name: Communication
-        description: Expertise in building and maintaining software systems
+        description: Collaborated effectively with cross-functional teams and stakeholders
         percent: 100
         icon: microphone
       - name: Teamplayer
-        description: Expertise in building and maintaining software systems
+        description: Contributed to large-scale projects in collaborative environments
         percent: 80
         icon: users
       - name: Problem-Solving
-        description: Expertise in building and maintaining software systems
+        description: Debugged complex distributed systems and optimized performance-critical workflows
         percent: 100
         icon: code-bracket
-      - name: Problem Solving
-        description: Expertise in building and maintaining software systems
+      - name: Learning Mindset
+        description: Quickly adapted to new technologies and frameworks in production systems
         icon: puzzle-piece
-
 
   - name: Hobbies
     color: '#16a34a'
     color_border: '#22c55e'
     items:
       - name: Travelling
-        description: Expertise in building and maintaining software systems
+        description: Explored diverse cultures and gained new perspectives through travel
         percent: 60
         icon: person-simple-walk
       - name: Networking
-        description: Expertise in building and maintaining software systems
+        description: Attended tech meetups and built a professional network in the industry
         percent: 100
         icon: users
       - name: Photography
-        description: Expertise in building and maintaining software systems
+        description: Captured creative shots in landscapes and street photography
         percent: 80
         icon: camera
       - name: Coding
-        description: Expertise in building and maintaining software systems
+        description: Built side projects and experimented with new programming languages and frameworks
         percent: 100
         icon: code-bracket
       - name: Cooking
-        description: Expertise in building and maintaining software systems
+        description: Explored cuisines and developed culinary skills
         percent: 80
         icon: fire
 
