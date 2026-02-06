@@ -108,7 +108,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-    - name: Technical Skills
+  - name: Technical Skills
     items:
       - name: Python
         description: Backend services, data pipelines, scripting
@@ -129,7 +129,7 @@ skills:
         description: Version control, code reviews, collaboration
         icon: code-bracket-square
 
-   - name: Professional Skills
+  - name: Professional Skills
     color: '#2563eb'
     color_border: '#3b82f6'
     items:
@@ -146,30 +146,31 @@ skills:
         description: Rapid adoption of new technologies
         icon: academic-cap
 
-   - name: Hobbies
-     color: '#eeac02'
-     color_border: '#f0bf23'
-     items:
-       - name: Travelling
-         description: ''
-         percent: 60
-         icon: person-simple-walk
-       - name: Networking
-         description: ''
-         percent: 100
-         icon: users
-       - name: Photography
-         description: ''
-         percent: 80
-         icon: camera
-       - name: Coding
-         description: ''
-         percent: 100
-         icon: code-bracket
-       - name: Cooking
-         description: ''
-         percent: 80
-         icon: fire
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Travelling
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Networking
+        description: ''
+        percent: 100
+        icon: users
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+      - name: Coding
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Cooking
+        description: ''
+        percent: 80
+        icon: fire
+
 
 ---
 ## About Me
