@@ -55,8 +55,8 @@ education:
 work:
   - position: Data Augmentation Intern
     company_name: Bevalty
-    company_url: 'https://www.bevalty.com'
-    company_logo: 'https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.bevalty.com%2F&ved=0CBYQjRxqFwoTCMDbo-bjxZIDFQAAAAAdAAAAABAf&opi=89978449'
+    company_url: https://www.bevalty.com
+    company_logo: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.bevalty.com%2F&ved=0CBYQjRxqFwoTCMDbo-bjxZIDFQAAAAAdAAAAABAf&opi=89978449
     date_start: 2025-06-23
     date_end: 2025-08-01
     summary: |2-
@@ -68,8 +68,8 @@ work:
 
   - position: Project Manager 
     company_name: ExPrep (Practicum Experience)
-    company_url: 'https://support.excelpreparation.com/knowledge/new-to-exprep-onboarding-students'
-    company_logo: 'https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmecc.college%2Fexprep%2F&ved=0CBYQjRxqFwoTCKiN36HkxZIDFQAAAAAdAAAAABAI&opi=89978449'
+    company_url: https://support.excelpreparation.com/knowledge/new-to-exprep-onboarding-students
+    company_logo: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmecc.college%2Fexprep%2F&ved=0CBYQjRxqFwoTCKiN36HkxZIDFQAAAAAdAAAAABAI&opi=89978449
     date_start: 2024-08-09
     date_end: 2025-06-07
     summary: |2-
@@ -80,8 +80,8 @@ work:
         
   - position: Senior Software Engineer
     company_name: Accolite Digital
-    company_url: 'https://www.bounteous.com'
-    company_logo: 'https://github.com/user-attachments/assets/203aa96c-4c14-4230-ae18-490945de2588'
+    company_url: https://www.bounteous.com
+    company_logo: https://github.com/user-attachments/assets/203aa96c-4c14-4230-ae18-490945de2588
     date_start: 2023-11-15
     date_end: 2024-08-01
     summary: |2-
@@ -93,8 +93,8 @@ work:
 
   - position: Software Engineer
     company_name: Accolite Digital
-    company_url: 'https://www.bounteous.com'
-    company_logo: 'https://github.com/user-attachments/assets/203aa96c-4c14-4230-ae18-490945de2588'
+    company_url: https://www.bounteous.com
+    company_logo: https://github.com/user-attachments/assets/203aa96c-4c14-4230-ae18-490945de2588
     date_start: 2021-09-15
     date_end: 2023-11-14
     summary: |
