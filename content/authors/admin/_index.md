@@ -111,63 +111,83 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: Backend services, data pipelines, scripting
+        description: Expertise in building and maintaining software systems
         icon: python
       - name: Java
-        description: Distributed systems, multithreading, APIs
+        description: Expertise in building and maintaining software systems
         icon: coffee
       - name: C++
-        description: Performance-critical systems, low-latency code
+        description: Expertise in building and maintaining software systems
         icon: cpu-chip
       - name: SQL
-        description: Complex queries, optimization, analytics
+        description: Expertise in building and maintaining software systems
         icon: circle-stack
       - name: Linux
-        description: System debugging, deployment, tooling
+        description: Expertise in building and maintaining software systems
         icon: terminal
       - name: Git
-        description: Version control, code reviews, collaboration
+        description: Expertise in building and maintaining software systems
         icon: code-bracket-square
 
-  - name: Professional Skills
-    color: '#2563eb'
-    color_border: '#3b82f6'
-    items:
-      - name: Problem Solving
-        description: Debugging production issues, system design
-        icon: puzzle-piece
-      - name: Communication
-        description: Cross-functional collaboration
-        icon: chat-bubble-left-right
-      - name: Leadership
-        description: Ownership of services and projects
-        icon: user-group
-      - name: Learning Mindset
-        description: Rapid adoption of new technologies
-        icon: academic-cap
-
-  - name: Hobbies
+  - name: Professional / Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Leadership
+        description: Expertise in building and maintaining software systems
+        percent: 60
+        icon: user
+      - name: Communication
+        description: Expertise in building and maintaining software systems
+        percent: 100
+        icon: microphone
+      - name: Teamplayer
+        description: Expertise in building and maintaining software systems
+        percent: 80
+        icon: users
+      - name: Problem-Solving
+        description: Expertise in building and maintaining software systems
+        percent: 100
+        icon: code-bracket
+      - name: Learning
+        description: Expertise in building and maintaining software systems
+        percent: 80
+        icon: chart-bar
+      - name: Problem Solving
+        description: Expertise in building and maintaining software systems
+        icon: puzzle-piece
+      - name: Communication
+        description: Expertise in building and maintaining software systems
+        icon: chat-bubble-left-right
+      - name: Leadership
+        description: Expertise in building and maintaining software systems
+        icon: user-group
+      - name: Learning Mindset
+        description: Expertise in building and maintaining software systems
+        icon: academic-cap
+
+  - name: Hobbies
+    color: '#16a34a'
+    color_border: '#22c55e'
+    items:
       - name: Travelling
-        description: ''
+        description: Expertise in building and maintaining software systems
         percent: 60
         icon: person-simple-walk
       - name: Networking
-        description: ''
+        description: Expertise in building and maintaining software systems
         percent: 100
         icon: users
       - name: Photography
-        description: ''
+        description: Expertise in building and maintaining software systems
         percent: 80
         icon: camera
       - name: Coding
-        description: ''
+        description: Expertise in building and maintaining software systems
         percent: 100
         icon: code-bracket
       - name: Cooking
-        description: ''
+        description: Expertise in building and maintaining software systems
         percent: 80
         icon: fire
 
