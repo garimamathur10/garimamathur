@@ -20,7 +20,8 @@ sections:
       show_skill_percentage: false   
       css_class: dark
       view: article-grid         
-      columns: 3                 
+      columns: 3
+      spacing: '10rem'             
       background:
         color: black
         image:
