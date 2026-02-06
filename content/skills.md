@@ -18,13 +18,14 @@ sections:
     design:
       show_skill_percentage: false   
       css_class: dark
-      padding_top: 80
-      padding_bottom: 80
       background:
         color: black
         image:
+          # Add your image background to `assets/media/`.
           filename: Blue (1).jpg
+          filters:
+            brightness: 1.0
           size: cover
           position: center
-          parallax: true   # adds subtle movement
+          parallax: false
 ---
