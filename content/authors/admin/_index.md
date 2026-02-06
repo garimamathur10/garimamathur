@@ -162,13 +162,12 @@ skills:
 
 languages:
 
-    items:
-      - name: English
-        percent: 100
-        icon: globe
-      - name: Hindi
-        percent: 100
-        icon: globe
+    - name: English
+      percent: 100
+      icon: globe
+    - name: Hindi
+      percent: 100
+      icon: globe
 ---
 ## About Me
 
