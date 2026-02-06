@@ -81,7 +81,7 @@ work:
   - position: Senior Software Engineer
     company_name: Accolite Digital
     company_url: 'https://www.bounteous.com'
-    company_logo: <img width="1289" height="676" alt="image" src="https://github.com/user-attachments/assets/203aa96c-4c14-4230-ae18-490945de2588" />
+    company_logo: '<img width="1289" height="676" alt="image" src="https://github.com/user-attachments/assets/203aa96c-4c14-4230-ae18-490945de2588" />'
 '
     date_start: 2023-11-15
     date_end: 2024-08-01
@@ -95,7 +95,7 @@ work:
   - position: Software Engineer
     company_name: Accolite Digital
     company_url: 'https://www.bounteous.com'
-    company_logo: <img width="1289" height="676" alt="image" src="https://github.com/user-attachments/assets/433beb43-70f3-4e66-bb5f-3cd4baaa0a21" />
+    company_logo: '<img width="1289" height="676" alt="image" src="https://github.com/user-attachments/assets/433beb43-70f3-4e66-bb5f-3cd4baaa0a21" />'
 '
     date_start: 2021-09-15
     date_end: 2023-11-14
