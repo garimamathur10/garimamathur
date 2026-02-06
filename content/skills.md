@@ -5,7 +5,7 @@ type: landing
 
 design:
   spacing: '10rem''
-  margin-right: '3rem'
+  padding_right: 3rem
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
