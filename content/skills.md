@@ -14,10 +14,9 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-      subtitle: "Technical Skills, Professional Skills, and Interests"
     
     design:
-      show_skill_percentage: false   # cleaner, icon-focused layout
+      show_skill_percentage: false   
       css_class: dark
       padding_top: 80
       padding_bottom: 80
