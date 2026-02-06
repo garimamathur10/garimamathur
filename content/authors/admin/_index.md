@@ -161,11 +161,14 @@ skills:
         icon: fire
 
 languages:
-  - name: English
-    percent: 100
-  - name: Hindi
-    percent: 100    
-    
+
+    items:
+      - name: English
+        percent: 100
+        icon: globe
+      - name: Hindi
+        percent: 100
+        icon: globe
 ---
 ## About Me
 
