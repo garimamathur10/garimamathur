@@ -159,12 +159,12 @@ skills:
       - name: Cooking
         percent: 80
         icon: fire
-    
+
 languages:
   - name: English
     percent: 100
   - name: Hindi
-    percent: 100
+    percent: 100    
     
 ---
 ## About Me
