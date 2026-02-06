@@ -25,8 +25,6 @@ sections:
         color: black
         image:
           filename: Blue (1).jpg
-          filters:
-            brightness: 0.7
           size: cover
           position: center
           parallax: true   # adds subtle movement
