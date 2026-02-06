@@ -108,28 +108,45 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-   - name: Technical Skills
-     items:
-       - name: Python
-         description: ''
-         percent: 80
-         icon: code-bracket
-       - name: Java
-         description: ''
-         percent: 100
-         icon: code-bracket
-       - name: SQL
-         description: ''
-         percent: 40
-         icon: circle-stack
-       - name: C++
-         description: ''
-         percent: 80
-         icon: code-bracket
-       - name: Tableau
-         description: ''
-         percent: 40
-         icon: chart-bar
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: Backend services, data pipelines, scripting
+        icon: python
+      - name: Java
+        description: Distributed systems, multithreading, APIs
+        icon: coffee
+      - name: C++
+        description: Performance-critical systems, low-latency code
+        icon: cpu-chip
+      - name: SQL
+        description: Complex queries, optimization, analytics
+        icon: circle-stack
+      - name: Linux
+        description: System debugging, deployment, tooling
+        icon: terminal
+      - name: Git
+        description: Version control, code reviews, collaboration
+        icon: code-bracket-square
+
+  - name: Professional Skills
+    color: '#2563eb'
+    color_border: '#3b82f6'
+    items:
+      - name: Problem Solving
+        description: Debugging production issues, system design
+        icon: puzzle-piece
+      - name: Communication
+        description: Cross-functional collaboration
+        icon: chat-bubble-left-right
+      - name: Leadership
+        description: Ownership of services and projects
+        icon: user-group
+      - name: Learning Mindset
+        description: Rapid adoption of new technologies
+        icon: academic-cap
+
    - name: Hobbies
      color: '#eeac02'
      color_border: '#f0bf23'
