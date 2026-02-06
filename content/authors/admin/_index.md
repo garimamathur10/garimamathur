@@ -111,19 +111,19 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: Developed scalable backend systems and automated data pipelines for high-traffic applications
+        description: Developed scalable backend systems and automated data pipelines
         icon: python
       - name: Java
-        description: Built distributed, low-latency services with multithreading and concurrency optimizations
+        description: Built distributed, low-latency services 
         icon: code-bracket
       - name: C++
-        description: Implemented performance-critical modules and optimized core system components
+        description: Implemented performance-critical modules 
         icon: cpu-chip
       - name: SQL
-        description: Wrote complex queries, optimized analytics pipelines, and managed relational databases
+        description: Wrote complex queries and managed relational databases
         icon: circle-stack
       - name: Linux
-        description: Managed Linux environments, debugging production issues and deploying services reliably
+        description: Managed debugging production issues 
         icon: code-bracket
 
   - name: Soft Skills
@@ -135,19 +135,19 @@ skills:
         percent: 60
         icon: user
       - name: Communication
-        description: Collaborated effectively with cross-functional teams and stakeholders
+        description: Collaborated with cross-functional teams and stakeholders
         percent: 100
         icon: microphone
       - name: Teamplayer
-        description: Contributed to large-scale projects in collaborative environments
+        description: Contributed to large-scale projects 
         percent: 80
         icon: users
       - name: Problem-Solving
-        description: Debugged complex distributed systems and optimized performance-critical workflows
+        description: Debugged complex distributed systems 
         percent: 100
         icon: code-bracket
       - name: Learning Mindset
-        description: Quickly adapted to new technologies and frameworks in production systems
+        description: Quickly adapted to new technologies and frameworks
         icon: puzzle-piece
 
   - name: Hobbies
@@ -155,19 +155,19 @@ skills:
     color_border: '#22c55e'
     items:
       - name: Travelling
-        description: Explored diverse cultures and gained new perspectives through travel
+        description: Explored diverse cultures through travel
         percent: 60
         icon: person-simple-walk
       - name: Networking
-        description: Attended tech meetups and built a professional network in the industry
+        description: Attended tech meetups 
         percent: 100
         icon: users
       - name: Photography
-        description: Captured creative shots in landscapes and street photography
+        description: Captured creative shots 
         percent: 80
         icon: camera
       - name: Coding
-        description: Built side projects and experimented with new programming languages and frameworks
+        description: Built side projects with new programming languages 
         percent: 100
         icon: code-bracket
       - name: Cooking
