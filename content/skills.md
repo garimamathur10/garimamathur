@@ -5,7 +5,6 @@ type: landing
 
 design:
   space: '10rem'
-  gap: '5rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -21,8 +20,6 @@ sections:
       css_class: dark
       view: article-grid         
       columns: 3                 
-      gap: "3rem"               
-      item_gap: "1rem" 
       background:
         color: black
         image:
