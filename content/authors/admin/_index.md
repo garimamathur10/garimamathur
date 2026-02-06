@@ -19,7 +19,7 @@ role: Master of Science in Business Analytics
 organizations:
   - name: University of California Davis
     url: [https://gsm.ucdavis.edu/master-science-business-analytics-msba]
-
+    
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
