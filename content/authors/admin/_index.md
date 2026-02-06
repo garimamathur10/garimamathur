@@ -161,7 +161,7 @@ skills:
         icon: fire
 
 languages:
- - name: Languages
+
     items:
       - name: English
         percent: 100
