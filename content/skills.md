@@ -4,7 +4,8 @@ date: 2023-10-24
 type: landing
 
 design:
-  space: '10rem'
+  padding_top: '10rem'
+  padding_bottom:'30rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
